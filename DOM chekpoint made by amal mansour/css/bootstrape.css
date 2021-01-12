@@ -1,0 +1,218 @@
+body {
+  background-color: hsl(336, 81%, 90%) !important;
+  padding: 0px;
+  margin: 0px;
+}
+
+i {
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+}
+.container-fluid {
+  background-color: hsl(335, 93%, 63%);
+}
+
+.navbar-brand {
+  color: white !important;
+  margin: 10px !important;
+}
+
+.btn-outline-success {
+  background-color: rgb(245, 163, 194) !important;
+}
+
+.carousel-inner {
+  width: 700px;
+  height: 600px !important;
+}
+
+.fa-trash-alt {
+  color: #ec5656;
+}
+
+.qute {
+  font-size: 20px;
+}
+
+
+
+.product{
+  display:flex;
+  justify-content: center;
+}
+
+.shopping-cart-container{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  margin:50px 0;
+}
+
+
+.card-img-top{
+  width: 100px;
+  height: 250px;
+
+}
+
+.total-price{
+  font-size: 30px;
+  font-style: bold;
+}
+.total-price-container{
+  font-size: 30px;
+  font-style: bold;
+  color:#f54a8c;
+
+}
+
+
+/* boxs-container {
+  width: 600px;
+  height: 450px;
+  background-color: white;
+  margin:auto;
+  
+}
+
+.boxs{
+  padding :100px;
+}
+
+.total-counter {
+  width: 600px;
+  height: 45px;
+  background-color:hsl(335, 93%, 63%);
+  color: white;
+  font-size: 25px;
+  font-style: bold;
+  text-align: center;
+}
+.shoes {
+  width: 70px;
+  height: 50px;
+  border-style: bold rgb(8, 6, 6);
+}
+
+.add {
+  padding: 4px 8px;
+  border-radius: 8px;
+  color: white;
+}
+
+
+.minus{
+    padding: 4px 8px;
+    border-radius: 8px;
+    color: white;
+
+}
+
+
+#quant {
+  background-color: green;
+}
+
+#dec {
+  background-color: red;
+}
+
+.box-item {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-around !important;
+}
+
+.box-item {
+  margin:3em;
+  padding: 3px;
+   
+}
+
+
+
+#price{
+    margin:1em;
+    font-style: bold;
+}
+     */
+
+/* #group{
+    display: flex !important;
+    flex-direction: row ;
+    align-items:space-around ;
+ } */
+
+/* button heart style  */
+
+/* 
+.btn {
+    margin: 0 auto;
+    display: block;
+  }
+  /*removes ugly bootstrap border button*/
+/* .btn:active,
+  .btn:focus,
+  .btn:active:focus,
+  .btn:focus {
+    outline: none !important;
+  }
+  
+  button > span {
+    color: red;
+    font-size:20px;
+  }
+  
+  .btn:active {
+    box-shadow: none;
+  }
+  
+  .btn:active, .btn:hover, .btn:focus {
+    background-color:black !important;
+  } */
+
+/* .button{
+	width: 5px;
+	height: 5px;
+      /* top:50%;
+  position: relative;
+	left: 50%;
+	 margin-top: -45px;
+	margin-left: -50px;
+	border-radius: 5px; 
+	background: none;
+	cursor: pointer;
+	transition: background 0.5s ease;
+}
+
+button:hover{
+
+}
+.active#heart:before,.active#heart:after{
+	background: red !important;
+}
+#heart {
+    width: 100px;
+    height: 90px;
+    transition: background 0.5s ease;
+}
+#heart:before,
+#heart:after {
+	transition: background 0.5s ease;
+    position: relative;
+    content: "";
+    left: 50px;
+    top: 0;
+    width: 50px;
+    height: 80px;
+    background: dimgrey;
+    border-radius: 50px 50px 0 0;
+    transform: rotate(-45deg);
+    transform-origin: 0 100%;
+}
+#heart:after {
+    left: 0;
+    transform: rotate(45deg);
+    transform-origin :100% 100%;
+} */
